@@ -1,5 +1,4 @@
 # india-weather-analysis
-# India Weather Dashboard
 
 A Python-based project that fetches real-time weather data for the capitals of Indian states using the OpenWeather API and visualizes the results.
 
