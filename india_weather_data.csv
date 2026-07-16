@@ -1,0 +1,29 @@
+State,Capital,Temperature,Feels_Like,Humidity,Pressure,Weather,Wind_Speed,Clouds,Visibility
+Andhra Pradesh,Amaravati,29.54,32.16,61,1007,overcast clouds,1.33,100,10000
+Arunachal Pradesh,Itanagar,23.49,24.43,97,1005,overcast clouds,1.56,85,10000
+Assam,Dispur,26.73,30.33,94,1004,overcast clouds,1.65,100,10000
+Bihar,Patna,33.86,39.47,54,1001,overcast clouds,3.38,100,10000
+Chhattisgarh,Raipur,25.25,26.1,87,1005,overcast clouds,7.16,100,10000
+Goa,Panaji,26.77,29.24,80,1011,overcast clouds,4.36,92,8658
+Gujarat,Gandhinagar,30.21,33.24,60,1005,broken clouds,3.49,79,10000
+Haryana,Chandigarh,34.85,35.11,33,999,few clouds,0.82,17,10000
+Himachal Pradesh,Shimla,21.17,20.7,52,1004,overcast clouds,0.78,93,10000
+Jharkhand,Ranchi,26.48,26.48,78,1003,broken clouds,2.41,83,10000
+Karnataka,Bengaluru,24.11,24.38,69,1013,overcast clouds,5.79,100,10000
+Kerala,Thiruvananthapuram,25.68,26.58,87,1013,overcast clouds,3.94,100,10000
+Madhya Pradesh,Bhopal,30.38,31.45,49,1005,broken clouds,4.92,73,10000
+Maharashtra,Mumbai,28.83,33.09,74,1009,scattered clouds,5.67,25,10000
+Manipur,Imphal,22.53,23.35,96,1007,overcast clouds,0.56,100,10000
+Meghalaya,Shillong,19.51,20.08,98,1008,overcast clouds,2.41,100,5726
+Mizoram,Aizawl,21.65,22.46,99,1008,overcast clouds,1.56,100,10000
+Nagaland,Kohima,19.73,20.32,98,1009,overcast clouds,1.13,95,10000
+Odisha,Bhubaneswar,26.78,29.51,83,1002,overcast clouds,4.27,100,10000
+Punjab,Chandigarh,34.85,35.11,33,999,few clouds,0.82,17,10000
+Rajasthan,Jaipur,34.9,35.18,33,1002,scattered clouds,4.93,50,10000
+Sikkim,Gangtok,21.55,22.27,96,1009,overcast clouds,0.46,100,10000
+Tamil Nadu,Chennai,30.3,37.3,81,1008,overcast clouds,0.89,97,10000
+Telangana,Hyderabad,27.91,28.91,56,1008,overcast clouds,2.9,100,10000
+Tripura,Agartala,26.02,26.02,90,1005,overcast clouds,4.56,100,10000
+Uttar Pradesh,Lucknow,35.08,39.0,45,1000,overcast clouds,2.05,88,10000
+Uttarakhand,Dehradun,28.35,29.27,54,1002,clear sky,2.28,8,10000
+West Bengal,Kolkata,28.45,34.2,85,1001,overcast clouds,4.34,100,10000
