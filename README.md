@@ -41,7 +41,6 @@ python main.py
 
 ## Author
 
-**Your Name**
 GitHub: `https://github.com/sanjeetkumar989159-hub`
 
 ---
