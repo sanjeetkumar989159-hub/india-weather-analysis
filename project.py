@@ -4,7 +4,7 @@ import pandas as pd
 import time
 import matplotlib.pyplot as plt
 
-API_KEY = "21d26b4a54e7128929ed2bb80e3e036b"
+API_KEY = "Enter_ your_api_key"
 
 
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
