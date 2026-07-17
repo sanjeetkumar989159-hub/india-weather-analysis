@@ -2,7 +2,7 @@
 import requests
 import pandas as pd
 import time
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 
 API_KEY = "Enter_ your_api_key"
 
