@@ -106,6 +106,7 @@ df.plot(
     figsize=(16, 7)
 )
 
+
 plt.title("Temperature and Feels Like")
 plt.xlabel("State")
 plt.ylabel("Temperature (°C)")
