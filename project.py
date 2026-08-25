@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 
 API_KEY = "Enter_ your_api_key"
 
-
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 states = {
